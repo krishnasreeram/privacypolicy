@@ -1,0 +1,2 @@
+# privacypolicy
+SQLBrains Privacy Policy
